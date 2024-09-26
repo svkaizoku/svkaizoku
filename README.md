@@ -25,7 +25,7 @@ I'm secretly building a time machine to fix all those bugs I introduced into pro
 
 If you want to discuss coding or debate whether tabs or spaces are superior, feel free to reach out! Let's create some amazing stuff together! 😄
 
-📫 Email: [svignesh81235@gmail.com](mailto:svignesh81235@gmail.com)
 
-💼 LinkedIn: [Vignesh Sundaresan](https://linkedin.com/in/vignesh-sundaresan-02057a116/)
+
+
 
