@@ -1,7 +1,7 @@
 # Hey there, I'm Vignesh 👋
 
 ## About Me 🤖
-A cimputer enthusiast
+A computer enthusiast
 ## Tech Stack 🚀
 
 - ⌨️ Kotlin, Java.
