@@ -6,7 +6,7 @@
 
 - 💜 Kotlin enthusiast (Yes, semicolons are optional, just like sleep.)
 - 🏆 Hackathon participant — survived on caffeine, pizza, and pure optimism.
-- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu** (or at least their lookalikes 👀).
+- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu from Mechmocha** .
 - 🌱 Always learning, always building, always breaking something.
 - 🐛 Professional bug creator. Part-time bug fixer.
 - ☕ Turning coffee into Kotlin code, one commit at a time.
