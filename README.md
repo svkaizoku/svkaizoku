@@ -4,50 +4,46 @@
 
 ## 🚀 About Me
 
-- 💜 Kotlin enthusiast (Yes, semicolons are optional, just like sleep.)
-- 🏆 Hackathon participant — survived on caffeine, pizza, and pure optimism.
-- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu from Mechmocha** .
-- 🌱 Always learning, always building, always breaking something.
-- 🐛 Professional bug creator. Part-time bug fixer.
-- ☕ Turning coffee into Kotlin code, one commit at a time.
+- 💜 Kotlin enthusiast who enjoys building clean and scalable systems.
+- 🤖 LLM-assisted developer — using AI to write, test, and occasionally question my life choices.
+- 🧪 Testing code in production (with LLMs as my safety net… most of the time).
+- 🏆 Hackathon participant — powered by caffeine, chaos, and late-night debugging.
+- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu** (or their lookalikes 👀).
+- 🌱 Exploring AI tooling, backend systems, and automation.
+- 🐛 I don’t always introduce bugs, but when I do, I let the LLM help fix them.
 
 ## 🛠 Tech I Enjoy
 
 ```kotlin
 val favoriteLanguage = "Kotlin ❤️"
-val editor = "IntelliJ IDEA"
-val mindset = "Ship first, debug later 😎"
+val devStyle = "LLM-assisted development 🤖"
+val mindset = "Ship fast, fix faster, ask AI why it broke"
 ```
 
 ## 🏅 Achievements
 
-- 🏆 Participated in Hackathons
-- 🎬 Built a production-ready video streaming platform
-- 🚀 Loves building scalable backend systems
-- 🤝 Open-source enthusiast & lifelong learner
+- 🏆 Hackathon participant
+- 🤖 Built workflows with LLM-assisted development
+- 🎬 Co-created a production-grade video streaming platform
+- 🚀 Passionate about scalable systems and AI-powered engineering
 
 ## 📈 GitHub Philosophy
 
-```text
-git add .
-git commit -m "final final fix"
-git push --force
+```bash
+git commit -m "it worked with AI help"
+git push
 ```
 
-Repeat until it works.
+If it breaks, blame randomness.  
+If it works, ship immediately.
 
 ---
 
 ### Fun Fact
 
-> There are only two hard things in Computer Science:
->
-> - Naming things
-> - Cache invalidation
-> - Off-by-one errors
-
-Wait... 🤔
+> I don’t debug alone anymore — I have an LLM now.  
+> It also doesn’t know what’s going on, but it’s very confident about it.
 
 ---
 
-⭐ If you like my work, leave a star. It makes my dopamine levels compile successfully.
+⭐ Star the repo if you like it — or if the LLM suggested it.
