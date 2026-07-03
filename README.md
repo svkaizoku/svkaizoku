@@ -8,7 +8,7 @@
 - 🤖 LLM-assisted developer — using AI to write, test, and occasionally question my life choices.
 - 🧪 Testing code in production (with LLMs as my safety net… most of the time).
 - 🏆 Hackathon participant — powered by caffeine, chaos, and late-night debugging.
-- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu** (or their lookalikes 👀).
+- 🎬 Co-built a **world-class video streaming platform** with **Hari, Adi, and Subbu from MechMocha** .
 - 🌱 Exploring AI tooling, backend systems, and automation.
 - 🐛 I don’t always introduce bugs, but when I do, I let the LLM help fix them.
 
